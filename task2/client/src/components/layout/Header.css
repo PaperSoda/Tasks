@@ -1,0 +1,24 @@
+ul {
+    list-style: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
+}
+
+.nav {
+    display: flex;
+    background-color: #333;
+    height: 40px;
+    align-items: center;
+}
+
+.link {
+    color: #fff;
+    text-underline: none;
+}
+
+.list {
+    display: flex;
+    width: 200px;
+    justify-content: space-around;
+}
